@@ -1,2 +1,0 @@
-# Mixa
-Mixa Login System
